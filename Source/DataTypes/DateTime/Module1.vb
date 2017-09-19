@@ -17,6 +17,7 @@ Module Module1
 
 
         'https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-date-and-time-format-strings
+        'https://msdn.microsoft.com/en-us/library/az4se3k1(v=vs.80).aspx?cs-save-lang=1&cs-lang=vb#code-snippet-2
     End Sub
 
 End Module
