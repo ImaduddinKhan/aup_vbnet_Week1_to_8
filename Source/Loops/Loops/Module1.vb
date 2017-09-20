@@ -22,7 +22,14 @@
         Console.WriteLine(vbCrLf & vbCrLf & "   For Loop   ")
 
         'For Loop
-        For num As Double = 3 To 0 Step -0.5
+        For num = 1 To 10
+
+            Dim ab As New System.Text.StringBuilder()
+
+            For num1 = 5 To 0 Step -3
+                ab.Append(num.ToString)
+                ab.Append("test")
+            Next
 
             Console.Write(num.ToString & "  ")
 
