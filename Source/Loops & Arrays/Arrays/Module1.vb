@@ -24,7 +24,7 @@
 
         Console.ReadLine()
 
-        'If code is repeated twice ignore it, if more than use functions
+        'If code is repeated twice ignore it, otherwise use functions
         'https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/arrays/
     End Sub
 
