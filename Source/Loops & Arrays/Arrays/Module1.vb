@@ -25,9 +25,12 @@
         Console.ReadLine()
 
         'If code is repeated twice ignore it, if more than use functions
+        'https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/arrays/
     End Sub
 
     Sub dispalyArray(ByVal num)
+        Console.WriteLine("Dispalying array with length.")
+
         For Each n In num
             Console.WriteLine(n)
         Next
