@@ -1,6 +1,7 @@
-﻿Module Module1
+﻿
+Imports Core
 
-
+Module Module1
 
     Sub Main()
         Dim myBankAccount = New bankAccount()
